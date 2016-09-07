@@ -1,2 +1,2 @@
-# pruebas
-directorio para hacer pruebas
+# Texto a binario
+Convertir cualquier texto a binarios
